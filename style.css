@@ -17,7 +17,7 @@ html, body {
 input {
     padding: 10px 20px;
     color: #fff;
-    background-color: transparent;
+    /* background-color: transparent; */
     border: 1px solid white;
-    
+    background-color: pink;
 }
